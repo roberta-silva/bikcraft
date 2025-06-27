@@ -6,6 +6,9 @@
   padding-top: 60px;
   padding-bottom: 60px;
 }
+#bicicleta .titulo p {
+  text-transform: uppercase;
+}
 .bicicleta-imagens {
   display: flex;
   flex-wrap: wrap;
