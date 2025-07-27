@@ -1,10 +1,10 @@
 # Projeto Bikcraft - Curso HTML e CSS para Iniciantes
 
-Este é um projeto que está sendo desenvolvido durante o curso **HTML e CSS para Iniciantes** da [Origamid](https://www.origamid.com/), com o objetivo de praticar a estruturação de páginas web usando HTML semântico e boas práticas.
+Este projeto foi desenvolvido durante o curso **HTML e CSS para Iniciantes** da [Origamid](https://www.origamid.com/), com o objetivo de praticar a estruturação de páginas web usando HTML semântico e boas práticas.
 
-## 🔗 Visualize o projeto [aqui](https://roberta-silva.github.io/bikcraft/).
+## 🔗 Visualize o projeto [aqui](https://roberta-silva.github.io/bikcraft/)✨
 
-## 📄 Sobre o projeto
+## 📄 Sobre 
 
 O site contém:
 
@@ -13,17 +13,12 @@ O site contém:
 - Listas, links, imagens e organização de conteúdo;
 - Primeiros testes com classes utilitárias em CSS.
 
-## 📚 Tecnologias utilizadas
+## Tecnologias 
 
-- HTML5
-- CSS3
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-## 🚀 Objetivo
 
-Praticar a criação de páginas estáticas com HTML e entender a importância da marcação correta dos elementos para acessibilidade e organização do conteúdo.
 
-## 💡 Autor
 
-Desenvolvido por **Roberta da Silva** como parte do processo de aprendizado em desenvolvimento front-end.
-
----
