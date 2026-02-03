@@ -1,24 +1,30 @@
-# Projeto Bikcraft - Curso HTML e CSS para Iniciantes
+# Bikcraft ✨
 
-Este projeto foi desenvolvido durante o curso **HTML e CSS para Iniciantes** da [Origamid](https://www.origamid.com/), com o objetivo de praticar a estruturação de páginas web usando HTML semântico e boas práticas.
+Site institucional fictício desenvolvido com foco em HTML e CSS, com o objetivo de praticar a estruturação de páginas web usando HTML semântico e boas práticas.  
 
-## 🔗 Visualize o projeto [aqui](https://roberta-silva.github.io/bikcraft/)✨
+> Status do projeto: Concluído ✔️
 
-## 📄 Sobre 
+## Acesse o projeto
 
-O site contém:
+🔗 [https://roberta-silva.github.io/bikcraft/](https://roberta-silva.github.io/bikcraft/)
 
-- Estrutura com HTML5;
-- Uso de tags semânticas (`header`, `main`, `section`, `footer`, etc.);
-- Listas, links, imagens e organização de conteúdo;
-- Primeiros testes com classes utilitárias em CSS.
+## Funcionalidades
+- Estrutura de site institucional com páginas e seções organizadas  
+- Desenvolvimento básico de formulário com JavaScript  
+- Efeitos e animações usando JavaScript e plugins  
+- Organização de conteúdo com listas, links e imagens  
 
-## Tecnologias 
+## Objetivos técnicos
+- Estruturação do HTML5 com foco em semântica (header, main, section, footer, etc.)  
+- Uso de JavaScript para efeitos e animações  
+- Implementação de classes utilitárias em CSS  
+- Boas práticas de organização e estilização de conteúdo  
+- Primeiros testes de hospedagem de site  
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+## Tecnologias
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
-
-
-
+## 👀 Preview
+<img src="./preview.png" alt="Preview do projeto BikCraft" width="600">
